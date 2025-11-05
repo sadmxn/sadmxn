@@ -8,7 +8,9 @@ Passionate about bridging hardware and software to build embedded systems and re
 
 ## 🛠 Tech Stack  
 **Hardware & Embedded:** Arduino, FPGA (VHDL)
+
 **Software & Tools:** C++, MATLAB, Git, Linux (Ubuntu), VS Code, Quartus, ModelSim 
+
 **Misc:** Soldering/Assembly, LTSpice
 
 ## 🚀 Featured Projects  
@@ -16,7 +18,7 @@ Passionate about bridging hardware and software to build embedded systems and re
 Built a custom cycling helmet with team-members utilising an Arduino UNO R4, featured on SFU Faculty of Applied Sciences website (first picture when you scroll down) and my LinkedIn profile.
 *Technologies:* Arduino, C++.
 
-### [Discrete Fourier Transform (DFT) for denoising a noisy signal]  
+### Discrete Fourier Transform (DFT) for denoising a noisy signal  
 Generated a synthetic signal combining sinusoids at 1 Hz, 10 Hz and 20 Hz. Added Gaussian noise to simulate real-world conditions, then performed a 256-point DFT. Applied amplitude thresholding in the frequency domain to suppress noise, reconstructed via inverse-DFT and evaluated denoising performance using MSE against the original clean signal.  
 *Technologies:* MATLAB.
 
