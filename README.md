@@ -32,6 +32,5 @@ Relevant Courses: Introduction to Engineering Analysis (ENSC 180), Software Desi
 - Electronic Circuits
 - Python Scripting using PyTorch 
 
-## 🤝 Let’s collaborate  
-Open to: Open source contributions in C++/hardware design.  
+## 🤝 Let’s Connect  
 You can reach me on [LinkedIn](https://www.linkedin.com/in/sm-sadman-sakib/)
