@@ -9,7 +9,7 @@ Passionate about bridging hardware and software to build embedded systems and re
 ## 🛠 Tech Stack  
 **Hardware & Embedded:** Arduino, FPGA (VHDL)
 
-**Software & Tools:** C++, MATLAB, Git, Linux (Ubuntu), VS Code, Quartus, ModelSim 
+**Software & Tools:** C++, MATLAB, Git, Linux (WSL), VS Code, Quartus, ModelSim 
 
 **Misc:** Soldering/Assembly, LTSpice
 
@@ -17,6 +17,9 @@ Passionate about bridging hardware and software to build embedded systems and re
 ### [VisiHelmet](https://www.sfu.ca/fas/news-events/news/2024/12/first-year-engineering-students-develop-innovative-solutions-for.html)  
 Built a custom cycling helmet with team-members utilising an Arduino UNO R4, featured on SFU Faculty of Applied Sciences website (first picture when you scroll down) and my LinkedIn profile.
 *Technologies:* Arduino, C++.
+
+### Elevator Control System
+Built a functional elevator system on a Altera DE-10 FPGA, with current floor, up, down, open and close indicators. Test it out for yourself by forking my repository; All of the documentation explains how the system works
 
 ### Discrete Fourier Transform (DFT) for denoising a noisy signal  
 Generated a synthetic signal combining sinusoids at 1 Hz, 10 Hz and 20 Hz. Added Gaussian noise to simulate real-world conditions, then performed a 256-point DFT. Applied amplitude thresholding in the frequency domain to suppress noise, reconstructed via inverse-DFT and evaluated denoising performance using MSE against the original clean signal.  
@@ -28,9 +31,9 @@ Simon Fraser University, Burnaby BC
 Relevant Courses: Introduction to Engineering Analysis (ENSC 180), Software Design and Analysis for Engineers (ENSC 251), Fundamentals of Digital Logic & Design (ENSC 252)
 
 ## 🌱 What I’m learning  
-- Digital Logic and FPGA 
-- Electronic Circuits
-- Python Scripting using PyTorch 
+- Python
+- C
+- FPGA
 
 ## 🤝 Let’s Connect  
 You can reach me on [LinkedIn](https://www.linkedin.com/in/sm-sadman-sakib/)
